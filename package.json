@@ -1,0 +1,13 @@
+{
+  "name": "aneta-portfolio",
+  "version": "1.0.0",
+  "description": "Aneta's Portfolio Website",
+  "main": "index.js",
+  "scripts": {
+    "dev": "npx serve .",
+    "start": "npx serve ."
+  },
+  "devDependencies": {
+    "serve": "^14.2.1"
+  }
+}
